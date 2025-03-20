@@ -34,4 +34,3 @@ Este script foi projetado para ajudar a automatizar o processo de extração de 
 
 Nota: O script utiliza o 7z.exe para extrair arquivos .rar, então certifique-se de que o 7-Zip esteja instalado no diretório padrão (C:\Program Files\7-Zip\7z.exe). Se estiver instalado em outro diretório, basta modificar a variável $sevenZipPath.
 
-Exemplo 💡
