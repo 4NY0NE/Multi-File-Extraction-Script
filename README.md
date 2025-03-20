@@ -15,7 +15,7 @@ This script is designed to help you automate the process of extracting .zip and 
 
 Note: The script uses 7z.exe for extracting .rar files, so make sure that 7-Zip is installed in the default directory (C:\Program Files\7-Zip\7z.exe). If it's installed in another directory, you can modify the $sevenZipPath variable.
 
-#
+
 
 # Script de Extração de Arquivos Multiplicados 🗂️🔓
 ### Descrição 📜
